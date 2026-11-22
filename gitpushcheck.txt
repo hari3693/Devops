@@ -1,0 +1,1 @@
+We are pushing the message from ec2 instance of git to github repository
